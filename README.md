@@ -8,7 +8,7 @@ My LeetCode solutions in C++
 
 Synced automatically by SolveBase.
 
-**Total solved: 1**
+**Total solved: 2**
 
 ## Codeforces
 
@@ -25,11 +25,12 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 1**
+**Solved: 2**
 
 | Topic | Solved |
 | --- | --- |
 | [dynamic-programming](./leetcode/dynamic-programming) | 1 |
+| [two-pointers](./leetcode/two-pointers) | 1 |
 
 
 ## CSES
@@ -65,5 +66,5 @@ Solutions organized by difficulty level.
 | — | 0 |
 
 
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-07_
 <!-- /cf-sync -->
