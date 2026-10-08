@@ -8,7 +8,7 @@ My LeetCode solutions in C++
 
 Synced automatically by SolveBase.
 
-**Total solved: 3**
+**Total solved: 4**
 
 ## Codeforces
 
@@ -25,10 +25,11 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 3**
+**Solved: 4**
 
 | Topic | Solved |
 | --- | --- |
+| [binary-search](./leetcode/binary-search) | 1 |
 | [dynamic-programming](./leetcode/dynamic-programming) | 1 |
 | [math](./leetcode/math) | 1 |
 | [two-pointers](./leetcode/two-pointers) | 1 |
