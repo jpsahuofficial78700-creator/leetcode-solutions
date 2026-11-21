@@ -8,7 +8,7 @@ My LeetCode solutions in C++
 
 Synced automatically by SolveBase.
 
-**Total solved: 8**
+**Total solved: 9**
 
 ## Codeforces
 
@@ -25,12 +25,12 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 8**
+**Solved: 9**
 
 | Topic | Solved |
 | --- | --- |
 | [array](./leetcode/array) | 1 |
-| [binary-search](./leetcode/binary-search) | 1 |
+| [binary-search](./leetcode/binary-search) | 2 |
 | [dynamic-programming](./leetcode/dynamic-programming) | 1 |
 | [hash-table](./leetcode/hash-table) | 1 |
 | [math](./leetcode/math) | 1 |
@@ -71,5 +71,5 @@ Solutions organized by difficulty level.
 | — | 0 |
 
 
-_Last updated: 2026-10-11_
+_Last updated: 2026-11-21_
 <!-- /cf-sync -->
